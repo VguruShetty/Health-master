@@ -1,2 +1,2 @@
-# Health-master
+# Health-master project
 Disease predication, Hospital and Doctors recommendation
