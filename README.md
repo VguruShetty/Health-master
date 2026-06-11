@@ -1,2 +1,3 @@
 # Health-master project
-Disease predication, Hospital and Doctors recommendation project.
+Disease prediction, Hospital and Doctors' recommendation project.
+Python - a machine learning technique.
